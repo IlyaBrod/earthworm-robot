@@ -1,4 +1,4 @@
-# Copyright (c) 2025 I. Brodoline, University of Twente. See LICENSE file for details.
+# Copyright (c) 2025 I. Brodoline, F.A.R Anselmucci. See LICENSE file for details.
 
 import pandas as pd 
 import numpy as np

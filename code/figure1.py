@@ -1,5 +1,4 @@
-# Copyright (c) 2025 I. Brodoline, University of Twente. See LICENSE file for details.
-
+# Copyright (c) 2025 I. Brodoline. See LICENSE file for details.
 #Figure1 A: AR1,AR2.5,AR4 vertical 
 #        B: Energy AR1, AR2.5, AR4
 #        C: Table values of 3 points

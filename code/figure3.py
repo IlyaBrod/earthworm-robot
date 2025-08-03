@@ -1,5 +1,4 @@
-# Copyright (c) 2025 I. Brodoline, University of Twente. See LICENSE file for details.
-
+# Copyright (c) 2025 I. Brodoline. See LICENSE file for details.
 # Figure3 : A Vertical AR1 and AR1 Airflow
 #           B Energy Vertical AR1 and AR1 Airflow
 

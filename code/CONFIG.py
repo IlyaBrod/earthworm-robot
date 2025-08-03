@@ -1,4 +1,5 @@
-# Copyright (c) 2025 I. Brodoline, University of Twente. See LICENSE file for details.
+# Copyright (c) 2025 I. Brodoline, F.A.R Anselmucci. See LICENSE file for details.
+
 from expData.DATAFILES import *
 
 WATER_UNIT_WEIGHT = 9.81 #[kN/m^3]

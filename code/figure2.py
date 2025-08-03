@@ -1,5 +1,4 @@
-# Copyright (c) 2025 I. Brodoline, University of Twente. See LICENSE file for details.
-
+# Copyright (c) 2025 I. Brodoline. See LICENSE file for details.
 # Figure2 : A Horizontal AR1, AR2.5, AR4
 #           B Horizontal AR1, AR1 asym1, AR1 asym2
 #           C Energy Horizontal AR1, AR2.5, AR4
